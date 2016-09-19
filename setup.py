@@ -22,6 +22,7 @@ setup(name='battlestar',
       license='MIT',
       packages=['battlestar'],
       install_requires=[
+          'setuptools-git'
           # 'markdown',
       ],
       include_package_data=True,
