@@ -22,7 +22,8 @@ setup(name='battlestar',
       license='MIT',
       packages=['battlestar'],
       install_requires=[
-          'setuptools-git'
+          'setuptools-git',
+          'pygame'
           # 'markdown',
       ],
       include_package_data=True,
